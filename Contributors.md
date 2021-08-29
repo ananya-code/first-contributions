@@ -24,6 +24,7 @@
 - [Nick Karamessinis](https://github.com/nikkaramessinis)
 - [Aniket Kumar](https://github.com/aniket-24)
 - [Daniel Brooker] (https://github.com/dabrooke)
+- [Ananya Singh] (https://github.com/ananya-code)
 - [Aastha Maingi] (https://github.com/amaingi99/)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
